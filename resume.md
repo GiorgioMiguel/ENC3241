@@ -5,6 +5,6 @@ title: Resume
 
 # Resume
 
-<iframe src = "Resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
+![Resume](Resume.png)
 
 [Download Resume (PDF)](resume.pdf)
