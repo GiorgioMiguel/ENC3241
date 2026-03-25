@@ -10,4 +10,4 @@ title: Instructions
 
 <img src="instructions_page-3.png" alt="Instructions Page 3" style="border: 2px solid #333; box-shadow: 0 6px 24px rgba(0,0,0,0.5); width: 100%; margin-bottom: 20px;">
 
-[Download Instructions (PDF)](Updating_a_Threat_Intelligence_Pipeline.pdf)
+[Download Instructions (PDF)](How_to_Speed_Up_a_Slow_Windows_Computer.docx.pdf)
